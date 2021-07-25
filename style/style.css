@@ -117,8 +117,9 @@ body {
 }
 
 .six .image {
-    font-size: 10rem;
+    font-size: 5rem;
     margin-top: 0;
+    display: inline-block;
 }
 
 .six .hat {
